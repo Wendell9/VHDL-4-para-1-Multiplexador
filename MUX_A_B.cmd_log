@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/ise/MUX_A_B/MUX_A_B.xst" -ofn "/home/ise/MUX_A_B/MUX_A_B.syr" 
+xst -intstyle ise -ifn "/home/ise/MUX_A_B/MUX_A_B.xst" -ofn "/home/ise/MUX_A_B/MUX_A_B.syr" 
